@@ -5,5 +5,5 @@ El arhivo csv contiene:
 	-Las modificaciones realizadas son la eliminación de columnas para quedarnos solamente con 8 columnas, también hemos agregado una columna con fechas
 
 El proyecto contien:
-	-El archivo csv, con los datos expecificados anteriormente
+	-El archivo csv, con los datos expecificados anteriormente.
 	
